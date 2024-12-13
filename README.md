@@ -1,2 +1,2 @@
 # HTML-projects
-Learning the Full stack
+Learning Full Stack Delvelopment
